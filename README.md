@@ -101,8 +101,8 @@ MACHINE_LEARNING/
 ### Step 1: Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/titanic-ml-project.git
-cd titanic-ml-project
+git clone https://github.com/suhasnidgundi/titanic-survival-prediction
+cd titanic-survival-prediction
 ```
 
 ### Step 2: Create Virtual Environment (Optional)
@@ -303,12 +303,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 👨‍💻 Contact
 
-**Your Name** - Vaibhav Mashal  
-**Email:** vaibhavmashal@example.com  
-**GitHub:** [@vaibhavmashal](https://github.com/vaibhavmashal)  
-**LinkedIn:** [Vaibhav Mashal](https://linkedin.com/in/vaibhavmashal)
+**Your Name** - Suhas Nidgundi  
+**Email:** suhasnidgundi@gmail.com  
+**GitHub:** [@suhasnidgundi](https://github.com/suhasnidgundi)  
+**LinkedIn:** [Suhas Nidgundi](https://linkedin.com/in/suhasnidgundi)
 
-**Project Link:** [https://github.com/vaibhavmashal/titanic-ml-project](https://github.com/vaibhavmashal/titanic-ml-project)
+**Project Link:** [https://github.com/suhasnidgundi/titanic-survival-prediction](https://github.com/suhasnidgundi/titanic-survival-prediction)
 
 ---
 
@@ -329,11 +329,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 4. [Machine Learning Mastery](https://machinelearningmastery.com/)
 
 ---
-
-<div align="center">
-
-**⭐ Star this repository if you found it helpful! ⭐**
-
-Made with ❤️ for SPPU Machine Learning Course
-
-</div>
